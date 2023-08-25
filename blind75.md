@@ -55,7 +55,6 @@
     Rotate Image
     Word Search
 # String
-<strong>
     Longest Substring Without Repeating Characters
     Longest Repeating Character Replacement
     Minimum Window Substring
@@ -65,8 +64,7 @@
     Valid Palindrome
     Longest Palindromic Substring
     Palindromic Substrings
-    Encode and Decode Strings (<Leetcode Premium>)
-</strong>
+    Encode and Decode Strings (Leetcode Premium)
 # Tree
     Maximum Depth of Binary Tree
     Same Tree
